@@ -7,5 +7,7 @@ Required Softwares:
 
 Note: This specific program is configured to STM32-F401RE Microcontroller clocked at 84 MHz.
 
+Extract the ZIP file, yhe program can be found in MDK-ARM folder.
+
 If you wanted to change the GPIO and the clock configuration, use STM Cube and regenerate the initialization code and make the modifications accordingly.
 
